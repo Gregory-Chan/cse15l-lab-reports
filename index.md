@@ -1,8 +1,6 @@
-*Italic*
-**Bold**
 # Header 1
 ## Header 2
-
+This is *Italic* text and this is **Bold** text
 > Blockquote
 
 * List item 1
