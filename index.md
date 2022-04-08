@@ -2,8 +2,6 @@
 **Bold**
 # Header 1
 ## Header 2
-[link](https://github.com/)
-![Image](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 > Blockquote
 
@@ -17,9 +15,9 @@
 
 Horizontal rule
 ---
-`Inline code` with backticks
+`1 line of code` with comments
 
 ```
 # code block
-System.out.println("Hello world!");
+Multiple lines of code
 ```
