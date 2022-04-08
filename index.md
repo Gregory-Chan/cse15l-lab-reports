@@ -19,3 +19,5 @@ Horizontal rule
 # code block
 Multiple lines of code
 ```
+## Lab Reports
+[Lab Report 1](https://Gregory-Chan.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
