@@ -28,14 +28,11 @@ Next you will be prompted to enter your password. After you enter your password 
 ![Image](SSH_Login.PNG)
 
 # 3. Trying some commands
-Enter some of the following commands:
+Enter some commands such as:
 * `cd ~`
 * `cd`
 * `ls -lat`
 * `ls-a`
-* `ls <directory>` where directory is `/home/linux/ieng6/cs15lsp22/cs15lsp22abc` where abc is someone else's username.
-* `cp /home/linux/ieng6/cs15lsp22/public/hello.txt ~/`
-* `cat /home/linux/ieng6/cs15lsp22/public/hello.txt`
 
 After trying out some of the commands your terminal may look something like this:
 ![image](Terminal1.PNG)
