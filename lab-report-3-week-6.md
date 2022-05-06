@@ -8,4 +8,10 @@ Host ieng6
     User cs15lsp22afx
 ```
 So it become this:
+
 ![image](config_file.png)
+
+So now whenever I enter the command `ssh ieng6` I will connect to the remote server. As shown below.
+
+![image](ssh_login_after_config.png)
+
