@@ -6,6 +6,7 @@ First I had to make a config file in the .ssh folder and add the following lines
 Host ieng6
     HostName ieng6.ucsd.edu
     User cs15lsp22afx
+    IdentifyFile ~/.ssh/id_rsa
 ```
 So it become this:
 
