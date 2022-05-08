@@ -10,7 +10,7 @@ Host ieng6
 ```
 So it become this:
 
-![image](config_fil.PNG)
+![image](config_file.PNG)
 
 So now whenever I enter the command `ssh ieng6` I will connect to the remote server. As shown below.
 
