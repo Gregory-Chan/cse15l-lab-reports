@@ -49,8 +49,8 @@ I was then able to connect to the remote desktop and compile and run the test fi
 
 I was also able to copy, compile and run the testfile with 1 command line input which was `scp -r . cs15lsp22afx@ieng6.ucsd.edu:~/markdown-parse; ssh ieng6 "cd markdown-parse; /software/CSE/oracle-java-17/jdk-17.0.1/bin/javac -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar MarkdownParseTest.java; /software/CSE/oracle-java-17/jdk-17.0.1/bin/java -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar org.junit.runner.JUnitCore MarkdownParseTest"`. The images below show the result of running this command.
 
-![image](copy_and_run1.png)
-![image](copy_and_run2.png)
-![image](copy_and_run3.png)
-![image](copy_and_run4.png)
-![image](copy_and_run5.png)
+![image](copy_and_run1.PNG)
+![image](copy_and_run2.PNG)
+![image](copy_and_run3.PNG)
+![image](copy_and_run4.PNG)
+![image](copy_and_run5.PNG)
