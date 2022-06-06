@@ -10,7 +10,7 @@ The output of the provided markdown parser was:
 I believe my implementation is correct since there are some characters between the brackets and the first parenthesis so it should not be counted as a list.
 
 # Second Test File
-I used vimdiff to find that the output form test file 22 was different. Here is a link to the [file](https://github.com/Gregory-Chan/markdown-parser/blob/main/test-files/22.md)
+I used vimdiff to find that the output form test file 22 was different. Here is a link to the [file](https://github.com/Gregory-Chan/markdown-parser/blob/main/test-files/22.md).
 
 In my Implementation the output was:
 ![image](Lab5_Images\Test_3_my_output.PNG)
