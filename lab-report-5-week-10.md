@@ -10,14 +10,14 @@ The output of the provided markdown parser was:
 I believe my implementation is correct since there are some characters between the brackets and the first parenthesis so it should not be counted as a list.
 
 # Second Test File
-I used vimdiff to find that the output form test file 201 was different. Here is a link to the [file](https://github.com/Gregory-Chan/markdown-parser/blob/main/test-files/201.md)
+I used vimdiff to find that the output form test file 22 was different. Here is a link to the [file](https://github.com/Gregory-Chan/markdown-parser/blob/main/test-files/22.md)
 
 In my Implementation the output was:
-![image](Lab5_Images\Test_2_my_output.PNG)
+![image](Lab5_Images\Test_3_my_output.PNG)
 The output of the provided markdown parser was:
-![image](Lab5_Images\Test_2_other_output.PNG)
+![image](Lab5_Images\Test_3_other_output.PNG)
 
-Again I believe my implementation is correct since there are some characters between the brackets and the first parenthesis so it should not be counted as a list.
+I believe that both implementations are incorrect. Using the CommonMark demo site, the expected output should be `[bar*]`. This is because there can be no space in a link.
 
 # Fix For The First Test File
 I believe the problem in the code is that it is not checking if there is anything inbetween the brackets and the parentheses and instead simply find the next pair of brackets.
